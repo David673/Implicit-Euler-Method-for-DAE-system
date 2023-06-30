@@ -9,3 +9,5 @@ The test case is a slider that goes down a slope under the gravitational force, 
 For comparative study, run the following script to see the result of the Baumgarte's method, which is one of the basic explicit solver for rigid body systems. 
 
     main_Slider.m
+
+To be continued. The current method only takes acc constraints and velocity constraints into consideration. When adding the geometric constraints, I currently cannot obtain the correct results.
